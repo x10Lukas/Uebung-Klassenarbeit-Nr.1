@@ -1,6 +1,6 @@
 ## Aufgabe 1:
 
-Ein Vermessungsgerät liefert folgende Daten:
+> Ein Vermessungsgerät liefert folgende Daten:
 ```
 Höhe:   32,346 m
 Breite: 15,193 m 
@@ -23,7 +23,7 @@ Breite: 15,193 m
 
 ## Aufgabe 2:
 
-Geben Sie an, wie die jeweilige Konsolenausgabe aussieht. 
+> Geben Sie an, wie die jeweilige Konsolenausgabe aussieht. 
 
 ```
 intx = 3, y = 6;
@@ -43,12 +43,12 @@ Console.WriteLine(--y == ++x & flag & true);    //Ausgabe____________________
 
 ## Aufgabe 3:
 
-Schreiben Sie ein Programm zur Kalkulation der Warmmiete.
-Der Benutzer soll folgende Daten **eingeben**. 
-
-Kaltmiete/m^2, Nebenkosten/m^2, Quadratmeter des Objekts
-
-Die Kalkulation und Ausgabe erfolgt nach dem folgenden Beispiel: 
+> Schreiben Sie ein Programm zur Kalkulation der Warmmiete.
+> Der Benutzer soll folgende Daten **eingeben**. 
+>
+> Kaltmiete/m^2, Nebenkosten/m^2, Quadratmeter des Objekts
+>
+> Die Kalkulation und Ausgabe erfolgt nach dem folgenden Beispiel: 
 ```
 Kaltmiete/m^2:                            12.00 EUR
 Nebenkosten/m^                            22.50 EUR
@@ -64,12 +64,12 @@ Warmmiete:                                1145.00 EUR
 
 ## Aufgabe 4:
 
-Entwickeln Sie ein Programm, das die Werte für Gewicht und Größe über die Konsole 
-einliest, anschließend den Bodymaßindex berechnet und in der Konsole ausgibt.
-
-BMI = Gewicht / (Körpergröße zum Quadrat)
-
-Achten Sie auf die Benutzerfreundlichkeit.
+> Entwickeln Sie ein Programm, das die Werte für Gewicht und Größe über die Konsole 
+> einliest, anschließend den Bodymaßindex berechnet und in der Konsole ausgibt.
+>
+> BMI = Gewicht / (Körpergröße zum Quadrat)
+>
+> Achten Sie auf die Benutzerfreundlichkeit.
 
 ## Lösung der Aufgabe
 ![Screenshot (5)](https://user-images.githubusercontent.com/65921256/199513942-83453eb0-bf9f-4a4d-9e22-a57bab083a5c.png)
