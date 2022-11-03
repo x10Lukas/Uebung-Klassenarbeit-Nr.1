@@ -26,7 +26,7 @@ Breite: 15,193 m
 > Geben Sie an, wie die jeweilige Konsolenausgabe aussieht. 
 
 ```
-intx = 3, y = 6;
+int x = 3, y = 6;
 bool flag = true;
 
 Console.WriteLine(x + y);                       //Ausgabe____________________
@@ -51,8 +51,8 @@ Console.WriteLine(--y == ++x & flag & true);    //Ausgabe____________________
 > Die Kalkulation und Ausgabe erfolgt nach dem folgenden Beispiel: 
 ```
 Kaltmiete/m^2:                            12.00 EUR
-Nebenkosten/m^                            22.50 EUR
-Quadratmeter des Objekts                  79 m^2
+Nebenkosten/m^:                           22.50 EUR
+Quadratmeter des Objekts:                 79 m^2
 
 Kaltmiete:                                948 EUR
 Nebenkosten:                              197.50 EUR
